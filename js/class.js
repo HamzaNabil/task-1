@@ -1,3 +1,4 @@
+// This is Charater Class
 class Charater {
   constructor(name, strength, health) {
     this.name = name;
